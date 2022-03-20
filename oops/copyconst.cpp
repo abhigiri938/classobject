@@ -2,7 +2,6 @@
 using namespace std;
 class demo 
 {
-char *name;
 public:
 
 int a;
